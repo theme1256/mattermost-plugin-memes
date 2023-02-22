@@ -1,0 +1,30 @@
+aliases:
+  - 2-red-buttons
+  - choice-button
+  - which-button
+  - daily-struggle
+  - hard-choice-to-make
+  - the-daily-struggle
+  - decisions
+  - two-blank-buttons-choice
+  - press-button-hard-choice
+example:
+  - By a PC
+  - Save my money
+  - Me
+slots:
+  - x: 50
+    y: 90
+    width: 200
+    height: 80
+    font: Anton-Regular
+  - x: 270
+    y: 60
+    width: 170
+    height: 60
+    font: Anton-Regular
+  - x: 100
+    y: 770
+    width: 430
+    height: 100
+    font: Anton-Regular
