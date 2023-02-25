@@ -18,3 +18,5 @@ slots:
     width: 160
     height: 110
     font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]

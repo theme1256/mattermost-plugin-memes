@@ -20,12 +20,13 @@ type Pattern struct {
 }
 
 type Slot struct {
-	X         int
-	Y         int
-	Width     int
-	Height    int
-	Font      string
-	TextColor []int `yaml:"text_color"`
+	X            int
+	Y            int
+	Width        int
+	Height       int
+	Font         string
+	TextColor    []int `yaml:"text_color"`
+	OutlineColor []int `yaml:"outline_color"`
 }
 
 type Metadata struct {
@@ -75,6 +76,9 @@ func (m *Metadata) TextSlots(bounds image.Rectangle) (slots []*meme.TextSlot) {
 			}
 			if c := sliceToColor(slot.TextColor); c != nil {
 				textSlot.TextColor = c
+			}
+			if c := sliceToColor(slot.OutlineColor); c != nil {
+				textSlot.OutlineColor = c
 			}
 			slots = append(slots, textSlot)
 		}
