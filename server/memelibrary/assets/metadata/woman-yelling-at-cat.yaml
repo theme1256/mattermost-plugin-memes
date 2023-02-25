@@ -1,0 +1,16 @@
+aliases:
+  - women-yelling
+  - confused-cat
+  - girl-screaming-at-cat
+  - angry-woman-yelling-at-cat-at-dinner-table
+slots:
+  - x: 5
+    y: 5
+    width: 330
+    height: 90
+    font: Anton-Regular
+  - x: 340
+    y: 5
+    width: 330
+    height: 90
+    font: Anton-Regular

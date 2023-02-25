@@ -1,0 +1,13 @@
+aliases:
+  - shocked-pikachu
+slots:
+  - x: 5
+    y: 5
+    width: 940
+    height: 260
+    font: Anton-Regular
+  - x: 5
+    y: 270
+    width: 940
+    height: 100
+    font: Anton-Regular

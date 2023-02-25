@@ -1,0 +1,13 @@
+aliases:
+  - spot-the-difference
+slots:
+  - x: 105
+    y: 65
+    width: 270
+    height: 225
+    font: Anton-Regular
+  - x: 510
+    y: 230
+    width: 365
+    height: 135
+    font: Anton-Regular
