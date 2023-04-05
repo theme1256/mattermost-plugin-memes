@@ -1,0 +1,40 @@
+aliases:
+  - orange-county-choppers-fight
+  - american chopper hot take
+  - chair-guy
+slots:
+  - x: 25
+    y: 260
+    width: 590
+    height: 95
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
+  - x: 25
+    y: 615
+    width: 590
+    height: 95
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
+  - x: 25
+    y: 960
+    width: 590
+    height: 95
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
+  - x: 25
+    y: 1340
+    width: 590
+    height: 95
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
+  - x: 25
+    y: 1700
+    width: 590
+    height: 95
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
