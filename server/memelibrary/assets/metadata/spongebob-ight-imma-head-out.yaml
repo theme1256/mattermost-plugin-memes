@@ -1,0 +1,23 @@
+aliases:
+  - ight-imma-head-out
+  - aight-imma-head-out
+  - spongebob-aight
+  - alright-im-out
+  - spongebob-getting-out-of-chair
+slots:
+  - x: 5
+    y: 5
+    width: 812
+    height: 170
+    horizontal_alignment: -1
+    vertical_alignment: -1
+    font: Anton-Regular
+    text_color: [0, 0, 0]
+  - x: 5
+    y: 180
+    width: 400
+    height: 60
+    horizontal_alignment: -1
+    vertical_alignment: -1
+    font: Anton-Regular
+    text_color: [0, 0, 0]

@@ -1,0 +1,16 @@
+aliases:
+  - pablo-escobar-waiting
+  - man-waiting
+  - waiting-man
+  - lonely-man
+  - narcos-waiting
+  - narcos-bored
+  - narcos-alone
+slots:
+  - x: 5
+    y: 275
+    width: 710
+    height: 75
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]

@@ -1,0 +1,20 @@
+aliases:
+  - monkey-looking-away
+  - monkey-puppet-avoids-eye-contact
+  - hiding-in-plain-sight
+  - awkward-look-monkey
+  - monkey-looking-away-meme
+  - side-glance-monkey
+slots:
+  - x: 5
+    y: 5
+    width: 913
+    height: 190
+    font: Anton-Regular
+    text_color: [0, 0, 0]
+  - x: 5
+    y: 200
+    width: 450
+    height: 70
+    font: Anton-Regular
+    text_color: [0, 0, 0]

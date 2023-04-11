@@ -1,0 +1,35 @@
+aliases:
+  - levels-of-intelligence
+  - expanding-brain-template
+  - brain-expanding
+  - expanding-brain-meme
+  - mind-expansion
+  - 4-expanding-brain-meme
+  - enlightement-meme
+  - expanding-mind
+  - big-brain
+slots:
+  - x: 5
+    y: 5
+    width: 410
+    height: 290
+    font: Anton-Regular
+    text_color: [0, 0, 0]
+  - x: 5
+    y: 305
+    width: 410
+    height: 295
+    font: Anton-Regular
+    text_color: [0, 0, 0]
+  - x: 5
+    y: 615
+    width: 410
+    height: 160
+    font: Anton-Regular
+    text_color: [0, 0, 0]
+  - x: 5
+    y: 895
+    width: 410
+    height: 305
+    font: Anton-Regular
+    text_color: [0, 0, 0]

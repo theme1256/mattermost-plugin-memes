@@ -1,0 +1,19 @@
+aliases:
+  - booty-calls-duty-calls
+  - praying-monk
+  - munk-temptation
+slots:
+  - x: 245
+    y: 415
+    width: 255
+    height: 110
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
+  - x: 520
+    y: 180
+    width: 260
+    height: 145
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
