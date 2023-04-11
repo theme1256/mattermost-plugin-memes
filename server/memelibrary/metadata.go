@@ -24,6 +24,8 @@ type Slot struct {
 	Y            int
 	Width        int
 	Height       int
+	HorizontalAlignment int `yaml:"horizontal_alignment"`
+	VerticalAlignment int `yaml:"vertical_alignment"`
 	Font         string
 	TextColor    []int `yaml:"text_color"`
 	OutlineColor []int `yaml:"outline_color"`
@@ -66,6 +68,8 @@ func (m *Metadata) TextSlots(bounds image.Rectangle) (slots []*meme.TextSlot) {
 			textSlot := &meme.TextSlot{
 				Bounds: image.Rect(slot.X, slot.Y, slot.X+slot.Width, slot.Y+slot.Height),
 			}
+			textSlot.HorizontalAlignment = meme.HorizontalAlignment(slot.HorizontalAlignment)
+			textSlot.VerticalAlignment = meme.VerticalAlignment(slot.VerticalAlignment)
 			if slot.Font != "" {
 				textSlot.Font = fonts[slot.Font]
 			} else {
