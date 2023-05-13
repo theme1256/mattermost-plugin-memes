@@ -1,0 +1,15 @@
+slots:
+  - x: 380
+    y: 40
+    width: 200
+    height: 150
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
+  - x: 360
+    y: 300
+    width: 170
+    height: 130
+    font: Anton-Regular
+    text_color: [255, 255, 255]
+    outline_color: [0, 0, 0]
